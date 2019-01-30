@@ -2,7 +2,7 @@
 
 ### What is [SmsRetriever](https://developers.google.com/identity/sms-retriever/overview)
 
-It is relatively new mechanism from Google that lets you handle SMS verification in your app without accessing SMSes directly. Just read here(https://developers.google.com/identity/sms-retriever/overview) for more info.
+It is relatively new mechanism from Google that lets you handle SMS verification in your app without accessing SMSes directly. Just read [here](https://developers.google.com/identity/sms-retriever/overview) for more info.
 
 ### Why SmsRetriever hash generator?
 
